@@ -1,0 +1,19 @@
+{
+  "name": "pruebacytoscape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cytoscape": "^3.14.17",
+    "@types/node": "^16.0.1",
+    "cytoscape": "^3.19.0",
+    "lite-server": "^2.6.1",
+    "typescript": "^4.3.5"
+  }
+}
